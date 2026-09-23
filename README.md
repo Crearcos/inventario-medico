@@ -35,16 +35,30 @@ mantiene la fuente central.
 
 ## Requisitos previos
 
-Antes de empezar confirma que tienes instalado:
+Antes de empezar, necesitas tener instalados los siguientes programas. Si ya los tienes, puedes omitir esta sección.
 
-| Herramienta | Versión mínima | Verificar con |
+### 1. Instalar Node.js (incluye npm)
+1. Ve a [nodejs.org](https://nodejs.org/) y descarga la versión **LTS** (actualmente 22.x o superior).
+2. Ejecuta el instalador descargado.
+3. Sigue el asistente haciendo clic en "Siguiente" en todas las pantallas (asegúrate de que la opción "Add to PATH" esté marcada, suele estarlo por defecto).
+4. Haz clic en "Instalar".
+
+### 2. Instalar Git
+1. Ve a [git-scm.com/downloads](https://git-scm.com/downloads) y descarga el instalador para tu sistema operativo (ej. 64-bit para Windows).
+2. Ejecuta el instalador.
+3. Haz clic en "Siguiente" en todas las múltiples pantallas de configuración dejando las opciones por defecto.
+4. Haz clic en "Instalar".
+
+### 3. Verificar instalación
+Abre una **nueva** terminal (PowerShell, CMD o la de tu sistema) y comprueba que los programas responden correctamente:
+
+| Herramienta | Versión mínima | Comando de verificación |
 |---|---|---|
 | Git | 2.40 | `git --version` |
-| Node.js | 22 LTS | `node --version` (debe empezar por `v22`) |
+| Node.js | 22 LTS | `node --version` (debe empezar por `v22` o superior) |
 | npm | incluido con Node | `npm --version` |
-| Chrome, Edge o Firefox | actualizado | — |
 
-**Docker no es necesario** para la ruta de evaluación descrita en este documento.
+*Nota: **Docker no es necesario** para la ruta de evaluación descrita en este documento.*
 
 ---
 
