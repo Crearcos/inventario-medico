@@ -193,7 +193,7 @@ vez desde ese dispositivo.
 | Nombre | Correo | Rol | Contraseña |
 |---|---|---|---|
 | Test Admin | `admintest@crearcos.ec` | Administrador | `Administradorcrearcos1@` |
-| Test Aux | `auxtest@crearcos.ec` | Auxiliar / Instrumentista | `CrearcosUAT#2026!` |
+| Test Aux | `auxtest@crearcos.ec` | Auxiliar / Instrumentista | `0995183548xdasdW@` |
 | Test Contable | `contabletest@crearcos.ec` | Contable | `CrearcosUAT#2026!` |
 | Test Coord | `coordtest@crearcos.ec` | Coordinadora | `CrearcosUAT#2026!` |
 | Test Supervisor | `supervisortest@crearcos.ec` | Supervisor | `CrearcosUAT#2026!` |
